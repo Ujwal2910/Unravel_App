@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/songoku/Downloads/codelabs/android-design-library-master/1-Base/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_home_black_24dp.png",
+        "source": "/home/songoku/Downloads/codelabs/android-design-library-master/1-Base/src/main/res/drawable-xxxhdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/home/songoku/Downloads/codelabs/android-design-library-master/UnRavel/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_menu_white_24dp.png",
+        "source": "/home/songoku/Downloads/codelabs/android-design-library-master/UnRavel/src/main/res/drawable-xxxhdpi/ic_menu_white_24dp.png"
+    },
+    {
+        "merged": "/home/songoku/Downloads/codelabs/android-design-library-master/1-Base/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_share_black_24dp.png",
+        "source": "/home/songoku/Downloads/codelabs/android-design-library-master/1-Base/src/main/res/drawable-xxxhdpi/ic_share_black_24dp.png"
+    },
+    {
+        "merged": "/home/songoku/Downloads/codelabs/android-design-library-master/UnRavel/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_share_black_24dp.png",
+        "source": "/home/songoku/Downloads/codelabs/android-design-library-master/UnRavel/src/main/res/drawable-xxxhdpi/ic_share_black_24dp.png"
+    },
+    {
+        "merged": "/home/songoku/Downloads/codelabs/android-design-library-master/1-Base/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_add_white_24dp.png",
+        "source": "/home/songoku/Downloads/codelabs/android-design-library-master/1-Base/src/main/res/drawable-xxxhdpi/ic_add_white_24dp.png"
+    },
+    {
+        "merged": "/home/songoku/Downloads/codelabs/android-design-library-master/1-Base/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_bookmark_border_black_24dp.png",
+        "source": "/home/songoku/Downloads/codelabs/android-design-library-master/1-Base/src/main/res/drawable-xxxhdpi/ic_bookmark_border_black_24dp.png"
+    },
+    {
+        "merged": "/home/songoku/Downloads/codelabs/android-design-library-master/1-Base/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_favorite_black_24dp.png",
+        "source": "/home/songoku/Downloads/codelabs/android-design-library-master/1-Base/src/main/res/drawable-xxxhdpi/ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "/home/songoku/Downloads/codelabs/android-design-library-master/UnRavel/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_home_black_24dp.png",
+        "source": "/home/songoku/Downloads/codelabs/android-design-library-master/UnRavel/src/main/res/drawable-xxxhdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/home/songoku/Downloads/codelabs/android-design-library-master/UnRavel/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_add_white_24dp.png",
+        "source": "/home/songoku/Downloads/codelabs/android-design-library-master/UnRavel/src/main/res/drawable-xxxhdpi/ic_add_white_24dp.png"
+    },
+    {
+        "merged": "/home/songoku/Downloads/codelabs/android-design-library-master/UnRavel/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_favorite_black_24dp.png",
+        "source": "/home/songoku/Downloads/codelabs/android-design-library-master/UnRavel/src/main/res/drawable-xxxhdpi/ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "/home/songoku/Downloads/codelabs/android-design-library-master/UnRavel/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_bookmark_border_black_24dp.png",
+        "source": "/home/songoku/Downloads/codelabs/android-design-library-master/UnRavel/src/main/res/drawable-xxxhdpi/ic_bookmark_border_black_24dp.png"
+    },
+    {
+        "merged": "/home/songoku/Downloads/codelabs/android-design-library-master/1-Base/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_menu_white_24dp.png",
+        "source": "/home/songoku/Downloads/codelabs/android-design-library-master/1-Base/src/main/res/drawable-xxxhdpi/ic_menu_white_24dp.png"
+    }
+]

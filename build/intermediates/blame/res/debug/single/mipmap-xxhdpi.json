@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/songoku/Downloads/codelabs/android-design-library-master/1-Base/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/songoku/Downloads/codelabs/android-design-library-master/1-Base/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/songoku/Downloads/codelabs/android-design-library-master/UnRavel/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/songoku/Downloads/codelabs/android-design-library-master/UnRavel/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
