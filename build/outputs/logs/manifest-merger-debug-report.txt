@@ -1,0 +1,181 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml:17:1-36:12
+MERGED from [com.android.support:design:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/d2c8c28884c569bf5d305f3365cce6d2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d2545819b506a0ec3467a8643ba5d22c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/7432254d0e9f4062e66c9fb724c7843b/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/6238c7f65d7af0e641d2ab66c7932460/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.exoplayer:exoplayer:r2.4.0] /home/songoku/.gradle/caches/transforms-1/files-1.1/exoplayer-r2.4.0.aar/b15b22f063ebea97f88f2849fca55520/AndroidManifest.xml:17:1-25:12
+MERGED from [de.hdodenhof:circleimageview:1.3.0] /home/songoku/.gradle/caches/transforms-1/files-1.1/circleimageview-1.3.0.aar/4463cf90d3392c9cfadb0a0f8d97f248/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/e74849a3ddd685460f26791ceda8c1c7/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/90c6892b3c4a6ff0a266214c8ffa709a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/49a1da80370181d54e28e6193031caa7/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9c7b6abb26521c15242a63bb5cddcba9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/6e1e6cfd386e319834ef3caa1a2c2160/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/00393541fd4591e81785f90bb025062d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/01df9a8c1f9d7e66ef37e4575010e3b2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.0] /home/songoku/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-r2.4.0.aar/973fddae30daaee19f9e5d0eb03bc4e7/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/7827d2f63fb51cc3710b73a1ca5d0824/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/5d6aa30f1c062f3697118c3a274c3d5a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:r2.4.0] /home/songoku/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-r2.4.0.aar/810fbdc1eb4dae7f7746937ea855769f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:r2.4.0] /home/songoku/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-r2.4.0.aar/5c497e8c2f22a8b13c95b65b58a2daa2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:r2.4.0] /home/songoku/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.4.0.aar/ceca2fe47ea0dc24142e0180925254de/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.0] /home/songoku/.gradle/caches/transforms-1/files-1.1/exoplayer-core-r2.4.0.aar/94575bccfb4d9958bd44a49af7939329/AndroidManifest.xml:17:1-25:12
+INJECTED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml:17:1-36:12
+	package
+		ADDED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml:18:5-56
+		INJECTED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml
+		INJECTED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml
+		ADDED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml:17:1-36:12
+		INJECTED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml
+		ADDED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml:17:1-36:12
+		INJECTED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml:20:5-34:19
+MERGED from [com.android.support:design:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/d2c8c28884c569bf5d305f3365cce6d2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/d2c8c28884c569bf5d305f3365cce6d2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d2545819b506a0ec3467a8643ba5d22c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d2545819b506a0ec3467a8643ba5d22c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/6238c7f65d7af0e641d2ab66c7932460/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/6238c7f65d7af0e641d2ab66c7932460/AndroidManifest.xml:26:5-20
+MERGED from [de.hdodenhof:circleimageview:1.3.0] /home/songoku/.gradle/caches/transforms-1/files-1.1/circleimageview-1.3.0.aar/4463cf90d3392c9cfadb0a0f8d97f248/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:1.3.0] /home/songoku/.gradle/caches/transforms-1/files-1.1/circleimageview-1.3.0.aar/4463cf90d3392c9cfadb0a0f8d97f248/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/e74849a3ddd685460f26791ceda8c1c7/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/e74849a3ddd685460f26791ceda8c1c7/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/90c6892b3c4a6ff0a266214c8ffa709a/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/90c6892b3c4a6ff0a266214c8ffa709a/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/49a1da80370181d54e28e6193031caa7/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/49a1da80370181d54e28e6193031caa7/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9c7b6abb26521c15242a63bb5cddcba9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9c7b6abb26521c15242a63bb5cddcba9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/6e1e6cfd386e319834ef3caa1a2c2160/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/6e1e6cfd386e319834ef3caa1a2c2160/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/00393541fd4591e81785f90bb025062d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/00393541fd4591e81785f90bb025062d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/01df9a8c1f9d7e66ef37e4575010e3b2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/01df9a8c1f9d7e66ef37e4575010e3b2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/7827d2f63fb51cc3710b73a1ca5d0824/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/7827d2f63fb51cc3710b73a1ca5d0824/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/5d6aa30f1c062f3697118c3a274c3d5a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/5d6aa30f1c062f3697118c3a274c3d5a/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml:24:9-40
+activity#com.example.android.materialdesigncodelab.MainActivity
+ADDED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml:26:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml
+INJECTED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/d2c8c28884c569bf5d305f3365cce6d2/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/d2c8c28884c569bf5d305f3365cce6d2/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d2545819b506a0ec3467a8643ba5d22c/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d2545819b506a0ec3467a8643ba5d22c/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/7432254d0e9f4062e66c9fb724c7843b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/7432254d0e9f4062e66c9fb724c7843b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/6238c7f65d7af0e641d2ab66c7932460/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/6238c7f65d7af0e641d2ab66c7932460/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.exoplayer:exoplayer:r2.4.0] /home/songoku/.gradle/caches/transforms-1/files-1.1/exoplayer-r2.4.0.aar/b15b22f063ebea97f88f2849fca55520/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer:r2.4.0] /home/songoku/.gradle/caches/transforms-1/files-1.1/exoplayer-r2.4.0.aar/b15b22f063ebea97f88f2849fca55520/AndroidManifest.xml:21:5-23:41
+MERGED from [de.hdodenhof:circleimageview:1.3.0] /home/songoku/.gradle/caches/transforms-1/files-1.1/circleimageview-1.3.0.aar/4463cf90d3392c9cfadb0a0f8d97f248/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:1.3.0] /home/songoku/.gradle/caches/transforms-1/files-1.1/circleimageview-1.3.0.aar/4463cf90d3392c9cfadb0a0f8d97f248/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/e74849a3ddd685460f26791ceda8c1c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/e74849a3ddd685460f26791ceda8c1c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/90c6892b3c4a6ff0a266214c8ffa709a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/90c6892b3c4a6ff0a266214c8ffa709a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/49a1da80370181d54e28e6193031caa7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/49a1da80370181d54e28e6193031caa7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9c7b6abb26521c15242a63bb5cddcba9/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9c7b6abb26521c15242a63bb5cddcba9/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/6e1e6cfd386e319834ef3caa1a2c2160/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/6e1e6cfd386e319834ef3caa1a2c2160/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/00393541fd4591e81785f90bb025062d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/00393541fd4591e81785f90bb025062d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/01df9a8c1f9d7e66ef37e4575010e3b2/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/01df9a8c1f9d7e66ef37e4575010e3b2/AndroidManifest.xml:21:5-23:63
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.0] /home/songoku/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-r2.4.0.aar/973fddae30daaee19f9e5d0eb03bc4e7/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.0] /home/songoku/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-r2.4.0.aar/973fddae30daaee19f9e5d0eb03bc4e7/AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/7827d2f63fb51cc3710b73a1ca5d0824/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/7827d2f63fb51cc3710b73a1ca5d0824/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/5d6aa30f1c062f3697118c3a274c3d5a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/5d6aa30f1c062f3697118c3a274c3d5a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.exoplayer:exoplayer-hls:r2.4.0] /home/songoku/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-r2.4.0.aar/810fbdc1eb4dae7f7746937ea855769f/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:r2.4.0] /home/songoku/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-r2.4.0.aar/810fbdc1eb4dae7f7746937ea855769f/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:r2.4.0] /home/songoku/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-r2.4.0.aar/5c497e8c2f22a8b13c95b65b58a2daa2/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:r2.4.0] /home/songoku/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-r2.4.0.aar/5c497e8c2f22a8b13c95b65b58a2daa2/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:r2.4.0] /home/songoku/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.4.0.aar/ceca2fe47ea0dc24142e0180925254de/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:r2.4.0] /home/songoku/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.4.0.aar/ceca2fe47ea0dc24142e0180925254de/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.0] /home/songoku/.gradle/caches/transforms-1/files-1.1/exoplayer-core-r2.4.0.aar/94575bccfb4d9958bd44a49af7939329/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.0] /home/songoku/.gradle/caches/transforms-1/files-1.1/exoplayer-core-r2.4.0.aar/94575bccfb4d9958bd44a49af7939329/AndroidManifest.xml:21:5-23:41
+INJECTED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml
+INJECTED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/d2c8c28884c569bf5d305f3365cce6d2/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml
+		ADDED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml
+		INJECTED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml
+		ADDED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml
+		INJECTED from /home/songoku/Desktop/Unraval_App/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/d2c8c28884c569bf5d305f3365cce6d2/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d2545819b506a0ec3467a8643ba5d22c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d2545819b506a0ec3467a8643ba5d22c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/7432254d0e9f4062e66c9fb724c7843b/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/7432254d0e9f4062e66c9fb724c7843b/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/6238c7f65d7af0e641d2ab66c7932460/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/6238c7f65d7af0e641d2ab66c7932460/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/e74849a3ddd685460f26791ceda8c1c7/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/e74849a3ddd685460f26791ceda8c1c7/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/90c6892b3c4a6ff0a266214c8ffa709a/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/90c6892b3c4a6ff0a266214c8ffa709a/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/49a1da80370181d54e28e6193031caa7/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/49a1da80370181d54e28e6193031caa7/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9c7b6abb26521c15242a63bb5cddcba9/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9c7b6abb26521c15242a63bb5cddcba9/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/6e1e6cfd386e319834ef3caa1a2c2160/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/6e1e6cfd386e319834ef3caa1a2c2160/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/00393541fd4591e81785f90bb025062d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/00393541fd4591e81785f90bb025062d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/01df9a8c1f9d7e66ef37e4575010e3b2/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/01df9a8c1f9d7e66ef37e4575010e3b2/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/7827d2f63fb51cc3710b73a1ca5d0824/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/7827d2f63fb51cc3710b73a1ca5d0824/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/5d6aa30f1c062f3697118c3a274c3d5a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/5d6aa30f1c062f3697118c3a274c3d5a/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/d2c8c28884c569bf5d305f3365cce6d2/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/songoku/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/d2c8c28884c569bf5d305f3365cce6d2/AndroidManifest.xml:26:9-47

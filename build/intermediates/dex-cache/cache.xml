@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/songoku/.android/build-cache/de4e6b4dfeef615018057ca38694001f8f11f4fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/songoku/Desktop/Unraval_App/build/intermediates/pre-dexed/debug/classes_8f2355ddef6496866e23f12b2d8c38354244f0f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/songoku/.android/build-cache/b0e2913d87694d86a603d8bcbd9c4fb51b2804b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/songoku/Desktop/Unraval_App/build/intermediates/pre-dexed/debug/classes_35273405e77ec7a232534c488bab8dad0670a02a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/songoku/.android/build-cache/8e7aace868bf897bef972043fd418cc5ae8fdc20/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3ecb9d2aad9a03dd8d0914b715cc1fc11d942c6c">
+        <dex dex="/home/songoku/Desktop/Unraval_App/build/intermediates/pre-dexed/debug/classes_f36e87b81e9d2eca92d12c66032eef10cef00dc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/songoku/.android/build-cache/7bf6690f6c08dd15dc6695cd32ce41106e0e521f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/songoku/Desktop/Unraval_App/build/intermediates/pre-dexed/debug/classes_6649262445e4cd88bee4358a59a9e9f2417c1534.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/songoku/.android/build-cache/26b42a589468b0b26e789dee0c5d3c188aa73756/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/songoku/Desktop/Unraval_App/build/intermediates/pre-dexed/debug/classes_a7849c5516f107a41f8373636af962d215e658cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/songoku/.android/build-cache/15eb758578a6c7a61409ad250f4fdee2ed45eb90/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a22d14a4ee12a1fc2e765eb280d94ea73efa630">
+        <dex dex="/home/songoku/Desktop/Unraval_App/build/intermediates/pre-dexed/debug/classes_61a57898fa0ec1bcc0bd2def6b6664d828a04c5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/songoku/.android/build-cache/190e94000881aa67a121c613c793c547b8375cb1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/songoku/Desktop/Unraval_App/build/intermediates/pre-dexed/debug/classes_eac16f3aef81306acf8c377c6ee6b23d7093a09a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/songoku/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/songoku/Desktop/Unraval_App/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_3cb695a31e7a18364dc6668182cb6ea588998eeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/songoku/.android/build-cache/685ef9de3ed50b367f31da90f1c4b1762abf3536/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/songoku/Desktop/Unraval_App/build/intermediates/pre-dexed/debug/classes_31b26b57a6c5068dc2b5288477cd41fdf3a12c1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/songoku/Desktop/Unraval_App/build/intermediates/pre-dexed/debug/classes_fb35d2e6aca51a1c35f01697fa22543dd68e9923.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/songoku/.android/build-cache/68f12171833e72af5a262d68c3b591a9b7ef461d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cfc67519fb914bc50f2434bad36ed2001412777a">
+        <dex dex="/home/songoku/Desktop/Unraval_App/build/intermediates/pre-dexed/debug/classes_2b06c9a02326ce1e6fe8a33e83348ff59bf303fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/songoku/.android/build-cache/b9db941d554a7ba2ea026e8907805fb8a7ec1d6e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/home/songoku/Desktop/Unraval_App/build/intermediates/pre-dexed/debug/classes_fbad2c414873f7f69e078f715082ce608427e335.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/songoku/.android/build-cache/9c49c39a83215e986206301bef99ecdf289d34fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/songoku/Desktop/Unraval_App/build/intermediates/pre-dexed/debug/classes_c38c11d16bcc044ac0ae7a48a041d47afa69b310.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/songoku/.android/build-cache/6f54b844a5ab209e3a415c66c4f1c9c541fe46a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/songoku/Desktop/Unraval_App/build/intermediates/pre-dexed/debug/classes_d07cb4806edb78ec6057a4574ccef61cff4e51ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/songoku/.android/build-cache/4739adfcad502b001a4471257806ae3ba8a4d5e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/songoku/Desktop/Unraval_App/build/intermediates/pre-dexed/debug/classes_767619f73d6f6dacce79e07c13de1193a03573b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/songoku/.android/build-cache/b9d3f31fbdd3cb9832a2bea478c61e673283f3ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/songoku/Desktop/Unraval_App/build/intermediates/pre-dexed/debug/classes_f4b1ded9881d0e7702c5a0c2d0da87604d4593cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/songoku/.android/build-cache/ffff7c575d827b46df36305f3b6278d96e5786d8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/songoku/Desktop/Unraval_App/build/intermediates/pre-dexed/debug/classes_72e668fc0764bb45f4db8823e4a4ef36aef6703a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/songoku/.android/build-cache/db579961a7a0bdf2e0b5e4eedb2db9736f682a2d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc987989a5b6a23cc00d436f97cbf82e644c739d">
+        <dex dex="/home/songoku/Desktop/Unraval_App/build/intermediates/pre-dexed/debug/classes_b6833bd00f0c669779fa5b6bad02cf0393237b35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/songoku/.android/build-cache/a4c1bac9d87acca5fbfa6e32516397fe6512f0c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="31abcff1d93243e1d25afda575266ca6219fadd1">
+        <dex dex="/home/songoku/Desktop/Unraval_App/build/intermediates/pre-dexed/debug/classes_73353368c21daeaf6efa01b62bd210c218de999c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/songoku/.android/build-cache/435cc1bde4f35c64ab29c57ec25fc1cebbf9b147/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="52f4541e66a53c22179655d7e9c6fccf12cba86a">
+        <dex dex="/home/songoku/Desktop/Unraval_App/build/intermediates/pre-dexed/debug/classes_cd2ea999d7ae7fb1d953d5b9450b3df101a95caa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/songoku/.android/build-cache/f0e0cb91309c4caa0b411b42c6637a94159ff392/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/songoku/Desktop/Unraval_App/build/intermediates/pre-dexed/debug/classes_ef96580c903da7dded0b2033e9ff63e78ac514f1.jar" />
+    </item>
+
+</items>
