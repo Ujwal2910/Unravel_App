@@ -1,50 +1,26 @@
 [
     {
-        "merged": "/home/songoku/Desktop/Unraval_App/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
-        "source": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "/home/songoku/Desktop/Unraval_App/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
-        "source": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/layout-v11/notification_template_big_media.xml"
+        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\layout-v11\\notification_template_big_media.xml"
     },
     {
-        "merged": "/home/songoku/Desktop/Unraval_App/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
-        "source": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/layout-v11/notification_media_action.xml"
+        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\layout-v11\\notification_media_action.xml"
     },
     {
-        "merged": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
-        "source": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
-        "source": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\layout-v11\\notification_template_big_media.xml"
+        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "/home/songoku/Desktop/Unraval_App/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
-        "source": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/layout-v11/notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
-        "source": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\layout-v11\\notification_media_action.xml"
-    },
-    {
-        "merged": "/home/songoku/Desktop/Unraval_App/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
-        "source": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/layout-v11/notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
-        "source": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
-        "source": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
-    },
-    {
-        "merged": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
-        "source": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "/home/songoku/Desktop/Unraval_App/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
-        "source": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/layout-v11/notification_template_big_media_custom.xml"
+        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
     }
 ]

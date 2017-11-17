@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/songoku/Desktop/Unraval_App/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml",
+        "outputFile": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-da\\values-da.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 153
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 261
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 384
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 483
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 595
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 678
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 778
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 891
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 968
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1045
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1124
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1233
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 1341
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1437
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 1551
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 1653
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 1754
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 1870
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 1967
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -372,7 +372,7 @@
                     "endOffset": 2044
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/68f12171833e72af5a262d68c3b591a9b7ef461d/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -391,7 +391,7 @@
                     "endOffset": 2117
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/68f12171833e72af5a262d68c3b591a9b7ef461d/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -410,7 +410,7 @@
                     "endOffset": 2184
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/68f12171833e72af5a262d68c3b591a9b7ef461d/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -429,7 +429,7 @@
                     "endOffset": 2251
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/68f12171833e72af5a262d68c3b591a9b7ef461d/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -448,7 +448,7 @@
                     "endOffset": 2330
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/68f12171833e72af5a262d68c3b591a9b7ef461d/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -467,7 +467,7 @@
                     "endOffset": 2405
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/68f12171833e72af5a262d68c3b591a9b7ef461d/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -486,7 +486,7 @@
                     "endOffset": 2470
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/68f12171833e72af5a262d68c3b591a9b7ef461d/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -505,7 +505,7 @@
                     "endOffset": 2549
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/values-da/values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -524,544 +524,7 @@
                     "endOffset": 2650
                 },
                 "from": {
-                    "file": "/home/songoku/.android/build-cache/b16c6e2deb868f04c5ee3dbf5d84b67b38e8fa04/output/res/values-da/values-da.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2051,
-                        "endColumn": 100,
-                        "endOffset": 2147
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-da\\values-da.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 102,
-                    "endOffset": 153
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 102,
-                        "endOffset": 153
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 158,
-                    "endColumn": 107,
-                    "endOffset": 261
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 158,
-                        "endColumn": 107,
-                        "endOffset": 261
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 266,
-                    "endColumn": 122,
-                    "endOffset": 384
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 266,
-                        "endColumn": 122,
-                        "endOffset": 384
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 389,
-                    "endColumn": 98,
-                    "endOffset": 483
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 389,
-                        "endColumn": 98,
-                        "endOffset": 483
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 488,
-                    "endColumn": 111,
-                    "endOffset": 595
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 488,
-                        "endColumn": 111,
-                        "endOffset": 595
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 600,
-                    "endColumn": 82,
-                    "endOffset": 678
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 600,
-                        "endColumn": 82,
-                        "endOffset": 678
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 683,
-                    "endColumn": 99,
-                    "endOffset": 778
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 683,
-                        "endColumn": 99,
-                        "endOffset": 778
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 783,
-                    "endColumn": 112,
-                    "endOffset": 891
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 783,
-                        "endColumn": 112,
-                        "endOffset": 891
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 896,
-                    "endColumn": 76,
-                    "endOffset": 968
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 896,
-                        "endColumn": 76,
-                        "endOffset": 968
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 973,
-                    "endColumn": 76,
-                    "endOffset": 1045
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 973,
-                        "endColumn": 76,
-                        "endOffset": 1045
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1050,
-                    "endColumn": 78,
-                    "endOffset": 1124
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1050,
-                        "endColumn": 78,
-                        "endOffset": 1124
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1129,
-                    "endColumn": 108,
-                    "endOffset": 1233
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1129,
-                        "endColumn": 108,
-                        "endOffset": 1233
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1238,
-                    "endColumn": 107,
-                    "endOffset": 1341
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1238,
-                        "endColumn": 107,
-                        "endOffset": 1341
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1346,
-                    "endColumn": 95,
-                    "endOffset": 1437
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1346,
-                        "endColumn": 95,
-                        "endOffset": 1437
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1442,
-                    "endColumn": 113,
-                    "endOffset": 1551
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1442,
-                        "endColumn": 113,
-                        "endOffset": 1551
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1556,
-                    "endColumn": 101,
-                    "endOffset": 1653
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1556,
-                        "endColumn": 101,
-                        "endOffset": 1653
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1658,
-                    "endColumn": 100,
-                    "endOffset": 1754
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1658,
-                        "endColumn": 100,
-                        "endOffset": 1754
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1759,
-                    "endColumn": 115,
-                    "endOffset": 1870
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1759,
-                        "endColumn": 115,
-                        "endOffset": 1870
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1875,
-                    "endColumn": 96,
-                    "endOffset": 1967
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1875,
-                        "endColumn": 96,
-                        "endOffset": 1967
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 1972,
-                    "endColumn": 76,
-                    "endOffset": 2044
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 76,
-                        "endOffset": 127
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 2049,
-                    "endColumn": 72,
-                    "endOffset": 2117
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 132,
-                        "endColumn": 72,
-                        "endOffset": 200
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 2122,
-                    "endColumn": 66,
-                    "endOffset": 2184
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 205,
-                        "endColumn": 66,
-                        "endOffset": 267
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 2189,
-                    "endColumn": 66,
-                    "endOffset": 2251
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 272,
-                        "endColumn": 66,
-                        "endOffset": 334
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 2256,
-                    "endColumn": 78,
-                    "endOffset": 2330
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 339,
-                        "endColumn": 78,
-                        "endOffset": 413
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 2335,
-                    "endColumn": 74,
-                    "endOffset": 2405
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 418,
-                        "endColumn": 74,
-                        "endOffset": 488
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 2410,
-                    "endColumn": 64,
-                    "endOffset": 2470
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 493,
-                        "endColumn": 64,
-                        "endOffset": 553
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 2475,
-                    "endColumn": 78,
-                    "endOffset": 2549
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 1972,
-                        "endColumn": 78,
-                        "endOffset": 2046
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 29,
-                    "startColumn": 4,
-                    "startOffset": 2554,
-                    "endColumn": 100,
-                    "endOffset": 2650
-                },
-                "from": {
-                    "file": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
+                    "file": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\values-da\\values-da.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,

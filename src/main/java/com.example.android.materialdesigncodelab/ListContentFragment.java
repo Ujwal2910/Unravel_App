@@ -30,7 +30,7 @@ public class ListContentFragment extends Fragment {
         recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
         return recyclerView;
     }
-    public static class ViewHolder extends RecyclerView.ViewHolder{
+    public static class ViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener{
 
         public ImageView avator;
         public TextView name;
@@ -40,6 +40,11 @@ public class ListContentFragment extends Fragment {
             avator = (ImageView) itemView.findViewById(R.id.list_avatar);
             name = (TextView) itemView.findViewById(R.id.list_title);
             desc = (TextView) itemView.findViewById(R.id.list_desc);
+        }
+
+        @Override
+        public void onClick(View v) {
+
         }
     }
 
