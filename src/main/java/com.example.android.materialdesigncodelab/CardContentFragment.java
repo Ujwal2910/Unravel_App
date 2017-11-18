@@ -1,12 +1,11 @@
 package com.example.android.materialdesigncodelab;
 
 import android.content.Context;
-import android.content.res.Resources;
-import android.content.res.TypedArray;
-import android.graphics.drawable.Drawable;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -15,54 +14,43 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-/**
- * Created by songoku on 29/9/17.
- */
+import com.squareup.picasso.Picasso;
+
+import java.util.List;
 
 public class CardContentFragment extends Fragment {
+
+    private List<Video> videosList;
+
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container,
                              @Nullable Bundle savedInstanceState) {
         RecyclerView recyclerView = (RecyclerView) inflater.inflate(R.layout.recycler_view,container,false);
-        ContentAdapter contentAdapter = new ContentAdapter(recyclerView.getContext());
+        ContentAdapter contentAdapter = new ContentAdapter(recyclerView.getContext(), videosList, new VideoItemClickHandler() {
+            @Override
+            public void onListItemClick(Video clickedVideo) {
+                // TODO : Implement something
+            }
+        });
         recyclerView.setAdapter(contentAdapter);
         recyclerView.setHasFixedSize(true);
         recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
         return recyclerView;
     }
 
-    public static class ViewHolder extends RecyclerView.ViewHolder{
-
-        public ImageView picture;
-        public TextView name;
-        public TextView description;
-        public ViewHolder(LayoutInflater inflater, ViewGroup parent) {
-            super(inflater.inflate(R.layout.item_card,parent,false));
-            picture = (ImageView) itemView.findViewById(R.id.card_image);
-            name = (TextView) itemView.findViewById(R.id.card_title);
-            description = (TextView) itemView.findViewById(R.id.card_text);
-
-        }
-    }
-
-    public static class ContentAdapter extends RecyclerView.Adapter<ViewHolder>
+    public static class ContentAdapter extends RecyclerView.Adapter<ContentAdapter.ViewHolder>
     {
-        private static final int length = 18;
-        private final String[] mPlaces;
-        private final String[] mPlaceDesc;
-        private final Drawable[] mPlacePictures;
-        public ContentAdapter(Context context)
+
+        private List<Video> mVideos;
+        private VideoItemClickHandler mOnClickListener;
+        private Context mContext;
+
+        public ContentAdapter(Context context, List<Video> videos, VideoItemClickHandler listener)
         {
-            Resources resources = context.getResources();
-            mPlaces = resources.getStringArray(R.array.places);
-            mPlaceDesc = resources.getStringArray(R.array.place_desc);
-            TypedArray a = resources.obtainTypedArray(R.array.places_picture);
-            mPlacePictures = new Drawable[a.length()];
-            for (int i = 0; i < mPlacePictures.length; i++) {
-                mPlacePictures[i] = a.getDrawable(i);
-            }
-            a.recycle();
+            mContext = context;
+            mVideos = videos;
+            mOnClickListener = listener;
         }
 
         @Override
@@ -71,16 +59,54 @@ public class CardContentFragment extends Fragment {
         }
 
         @Override
-        public void onBindViewHolder(ViewHolder holder, int position) {
-            holder.picture.setImageDrawable(mPlacePictures[position % mPlacePictures.length]);
-            holder.name.setText(mPlaces[position % mPlaces.length]);
-            holder.description.setText(mPlaceDesc[position % mPlaceDesc.length]);
+        public void onBindViewHolder(final ViewHolder holder, int position) {
+
+            Context context = holder.mView.getContext();
+
+            Video video = mVideos.get(position);
+            holder.mVideo = video;
+            holder.mTitle.setText(video.getTitle());
+
+            Picasso.with(context)
+                    .load(video.getThumbnailUrl())
+                    .into(holder.mPicture);
+
+            holder.mView.setOnClickListener(new View.OnClickListener(){
+                @Override
+                public void onClick(View v) {
+                    mOnClickListener.onListItemClick(holder.mVideo);
+                }
+            });
 
         }
 
         @Override
         public int getItemCount() {
-            return length;
+            return mVideos.size();
+        }
+
+        public class ViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener{
+
+            public View mView;
+            public Video mVideo;
+            public ImageView mPicture;
+            public TextView mTitle;
+            public TextView description;
+
+            public ViewHolder(LayoutInflater inflater, ViewGroup parent) {
+                super(inflater.inflate(R.layout.item_card,parent,false));
+                mView = itemView;
+                mPicture = (ImageView) itemView.findViewById(R.id.card_image);
+                mTitle = (TextView) itemView.findViewById(R.id.card_title);
+                description = (TextView) itemView.findViewById(R.id.card_text);
+
+                itemView.setOnClickListener(this);
+
+            }
+            @Override
+            public void onClick(View v) {
+                mOnClickListener.onListItemClick(mVideo);
+            }
         }
     }
 

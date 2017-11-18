@@ -1,7 +1,6 @@
 
 package com.example.android.materialdesigncodelab;
 
-import android.annotation.SuppressLint;
 import android.app.SearchManager;
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
@@ -28,7 +27,6 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity {
     private DrawerLayout mdrawerLayout;
 
-    @SuppressLint("RestrictedApi")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -53,7 +51,6 @@ public class MainActivity extends AppCompatActivity {
                         return true;
                     }
                 });
-
 
         //toolbar additon
         Toolbar  toolbar = (Toolbar) findViewById(R.id.toolbar);
@@ -124,7 +121,8 @@ public class MainActivity extends AppCompatActivity {
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_search) {
             return true;
-        }else if (id == android.R.id.home) {
+        }
+        else if (id == android.R.id.home) {
             mdrawerLayout.openDrawer(GravityCompat.START);
         }
         return super.onOptionsItemSelected(item);

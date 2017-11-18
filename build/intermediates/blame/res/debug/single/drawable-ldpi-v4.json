@@ -1,58 +1,30 @@
 [
     {
-        "merged": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_next.png",
-        "source": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\drawable-ldpi-v4\\exo_controls_next.png"
+        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_next.png",
+        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\drawable-ldpi-v4\\exo_controls_next.png"
     },
     {
-        "merged": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_pause.png",
-        "source": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\drawable-ldpi-v4\\exo_controls_pause.png"
+        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_pause.png",
+        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\drawable-ldpi-v4\\exo_controls_pause.png"
     },
     {
-        "merged": "/home/songoku/Desktop/Unraval_App/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_pause.png",
-        "source": "/home/songoku/.android/build-cache/68f12171833e72af5a262d68c3b591a9b7ef461d/output/res/drawable-ldpi-v4/exo_controls_pause.png"
+        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_rewind.png",
+        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\drawable-ldpi-v4\\exo_controls_rewind.png"
     },
     {
-        "merged": "/home/songoku/Desktop/Unraval_App/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_previous.png",
-        "source": "/home/songoku/.android/build-cache/68f12171833e72af5a262d68c3b591a9b7ef461d/output/res/drawable-ldpi-v4/exo_controls_previous.png"
+        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_fastforward.png",
+        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\drawable-ldpi-v4\\exo_controls_fastforward.png"
     },
     {
-        "merged": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_rewind.png",
-        "source": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\drawable-ldpi-v4\\exo_controls_rewind.png"
+        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_previous.png",
+        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\drawable-ldpi-v4\\exo_controls_previous.png"
     },
     {
-        "merged": "/home/songoku/Desktop/Unraval_App/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_play.png",
-        "source": "/home/songoku/.android/build-cache/68f12171833e72af5a262d68c3b591a9b7ef461d/output/res/drawable-ldpi-v4/exo_controls_play.png"
+        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_edit_mode_logo.png",
+        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\drawable-ldpi-v4\\exo_edit_mode_logo.png"
     },
     {
-        "merged": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_fastforward.png",
-        "source": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\drawable-ldpi-v4\\exo_controls_fastforward.png"
-    },
-    {
-        "merged": "/home/songoku/Desktop/Unraval_App/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_fastforward.png",
-        "source": "/home/songoku/.android/build-cache/68f12171833e72af5a262d68c3b591a9b7ef461d/output/res/drawable-ldpi-v4/exo_controls_fastforward.png"
-    },
-    {
-        "merged": "/home/songoku/Desktop/Unraval_App/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_next.png",
-        "source": "/home/songoku/.android/build-cache/68f12171833e72af5a262d68c3b591a9b7ef461d/output/res/drawable-ldpi-v4/exo_controls_next.png"
-    },
-    {
-        "merged": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_previous.png",
-        "source": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\drawable-ldpi-v4\\exo_controls_previous.png"
-    },
-    {
-        "merged": "/home/songoku/Desktop/Unraval_App/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_edit_mode_logo.png",
-        "source": "/home/songoku/.android/build-cache/68f12171833e72af5a262d68c3b591a9b7ef461d/output/res/drawable-ldpi-v4/exo_edit_mode_logo.png"
-    },
-    {
-        "merged": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_edit_mode_logo.png",
-        "source": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\drawable-ldpi-v4\\exo_edit_mode_logo.png"
-    },
-    {
-        "merged": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_play.png",
-        "source": "/home/songoku/Desktop/Unraval_App/C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\drawable-ldpi-v4\\exo_controls_play.png"
-    },
-    {
-        "merged": "/home/songoku/Desktop/Unraval_App/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_rewind.png",
-        "source": "/home/songoku/.android/build-cache/68f12171833e72af5a262d68c3b591a9b7ef461d/output/res/drawable-ldpi-v4/exo_controls_rewind.png"
+        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_play.png",
+        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\drawable-ldpi-v4\\exo_controls_play.png"
     }
 ]
