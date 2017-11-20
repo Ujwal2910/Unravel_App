@@ -2,13 +2,13 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Prakhar\.android\build-cache\e2948ac59ec3f1546019de82caafdf37a822a02e\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="6ba04a022aedb8784d2bef349be9e73a375c059b">
-        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_71a6bea1deab6fa9e1ecba086b68e9da94fc2ca6\classes.dex" />
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\classes_d8c5dadb8fb77066214582385cd5e1a9eb810c3f.jar" />
     </item>
     <item
         is-multidex="true"
@@ -18,6 +18,231 @@
         revision="25.0.0"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8d4615ce588718a77b36e4e645aa206760781b6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prakhar\.android\build-cache\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\classes_4df4a1031abdc73738f260220efd3686ce775b3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prakhar\.android\build-cache\1ae2672310eed12fd0a20296fa47db99e72fca1e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\classes_8f29b04a9d5ae49bdd54c94b4699c44bc09465e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prakhar\.android\build-cache\b19ad50f4cb6418a220a9e5be8dc32657619e672\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a22d14a4ee12a1fc2e765eb280d94ea73efa630">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\classes_9d4d4d05b1969dea49a65f1e7bd277ef30f09e21.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b6811002cf27b03606675ea1c07def8ce243317">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_71a6bea1deab6fa9e1ecba086b68e9da94fc2ca6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prakhar\.android\build-cache\b68e57d9c7760d2937159f7a1e2546a6602278e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\classes_dac5184860d246395d0e67495a7121db0ef72038.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prakhar\.android\build-cache\be0c0d17c43cb37e147ac47c55ce7bf6c8c17283\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3ecb9d2aad9a03dd8d0914b715cc1fc11d942c6c">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\classes_5278836c5271fddac00fed6a556dad2bc82062cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prakhar\.android\build-cache\26d1a34e5f2229330d8ed10fa8579772979e89de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="52f4541e66a53c22179655d7e9c6fccf12cba86a">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\classes_76a50c21d60246a2101851761db7b0dfd61c9e48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prakhar\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\picasso-2.5.2_bd9c23703a248ddb90e1147fbc546142ff133a5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prakhar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_e6f181a87113c9c4f14cdf25e2b076cde06e65a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prakhar\.android\build-cache\be6df1d0b30c25b00d78b57092c9f553cf8fc403\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\classes_f889e5f016f8f50bdd8a015e6a31ecbb1836b98f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prakhar\.android\build-cache\3676a8c3a375f5f0f5cf4a14014488accb527588\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\classes_71fbd96b8d93b2fafb475e47c2f016f4e21ed130.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prakhar\.android\build-cache\acb72df5b440f8104c4157872f49410424f5f0af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\classes_83dc363e2c0c2c6e5196280f15eb9daa2314b288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prakhar\.android\build-cache\753c8931c91b8054006b51d60e2748c0ebb6c584\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\classes_93fc2caa4a91f89ed76751734e064b5ceadb5cb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prakhar\.android\build-cache\351c118beff534c9fce4bd81691b3de5d9bf4e4e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\classes_4aad846b4d7c46789843e7efa6ff0f2f1e138aca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prakhar\.android\build-cache\4487fdd70ed6920ca55dbb424ff6c6865aa52688\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cfc67519fb914bc50f2434bad36ed2001412777a">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\classes_48733625617f1513ec8004d2b05cf28bd037b8a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prakhar\.android\build-cache\1d595b431858b597d0bf2b8d4eab3707d45ce4d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\classes_a62342d608b6fe47b091cf7cea02395a2ca7f6c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prakhar\.android\build-cache\5710ebbac87be50c104952147183d332f48ae5ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\classes_c232a2327eb9468562220b3c4afc449a72dad18b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prakhar\.android\build-cache\28e68d0566366dd17ad5749218bcd852e266780f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc987989a5b6a23cc00d436f97cbf82e644c739d">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\classes_89ae07f97818980f987820edd4565753ddd88050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prakhar\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_fb4ca9235b1508649debafe5ea63de533ce093bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prakhar\.android\build-cache\f1589c9cf4805ee4cf916560ad6c66c79aaf345d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\classes_d53ad6bbaaf4f3b6e7be9385368d36997f0a90be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prakhar\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.8.0\9bada650e1afe9c6174ddc0d113c1fce4dc26fe0\glide-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\glide-3.8.0_fad34fe5373b949b669f7a9561e35f40681677e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prakhar\.android\build-cache\fe19bc3f5e8a392b663e2c2bc6e10c4fcd9f49ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="31abcff1d93243e1d25afda575266ca6219fadd1">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\classes_fc8fe0f4d38244bbae6cc8062229c328180dea88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prakhar\.android\build-cache\6f09a75e4004fcc29148df81730cfae9d73a9433\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\classes_f89be79e2e801bb8a1f78394804c06fcdc44c71a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prakhar\.android\build-cache\27a31eca52a8b78c74098da842788e50224da9a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\classes_9bc23184eaa93fa1e297f864b7efea360e56759c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prakhar\.android\build-cache\6aca5000948b9c99fe395339f810d344cdbec70a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="C:\Users\Prakhar\Documents\GitHub\Unraval_App\build\intermediates\pre-dexed\debug\classes_b5f1bf8b853dc9fe6902120cd8e072396f1fef34.jar" />
     </item>
 
 </items>

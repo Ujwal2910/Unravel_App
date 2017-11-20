@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
     android:layout_width="match_parent"
@@ -12,12 +13,11 @@
         android:layout_height="@dimen/tile_height"
         android:id="@+id/tile_picture"
         android:scaleType="centerCrop"
-        tools:src="@drawable/a"/>
-    <ImageView
+        android:background="@drawable/machine_learning"/>
+    <View
         android:layout_width="match_parent"
-        android:layout_height="@dimen/tile_height"
-        android:alpha=".3"
-        android:background="@color/dark_grey"/>
+        android:layout_height="160dp"
+        android:background="@drawable/scrim_middle"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="@dimen/tile_height"
@@ -27,6 +27,5 @@
         android:id="@+id/tile_text"
         android:textSize="@dimen/article_titles"
         android:gravity="center"/>
-
 
 </RelativeLayout>

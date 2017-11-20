@@ -20,12 +20,12 @@
         "source": "C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\drawable-anydpi-v21\\exo_controls_pause.xml"
     },
     {
-        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
-        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\753c8931c91b8054006b51d60e2748c0ebb6c584\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
-    },
-    {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\exo_controls_next.xml",
         "source": "C:\\Users\\Prakhar\\.android\\build-cache\\4487fdd70ed6920ca55dbb424ff6c6865aa52688\\output\\res\\drawable-anydpi-v21\\exo_controls_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\753c8931c91b8054006b51d60e2748c0ebb6c584\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     },
     {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\exo_edit_mode_logo.xml",

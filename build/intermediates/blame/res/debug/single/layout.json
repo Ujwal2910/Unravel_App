@@ -28,6 +28,10 @@
         "source": "C:\\Users\\Prakhar\\.android\\build-cache\\753c8931c91b8054006b51d60e2748c0ebb6c584\\output\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
+        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout\\channel_list_item.xml",
+        "source": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\src\\main\\res\\layout\\channel_list_item.xml"
+    },
+    {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
@@ -38,10 +42,6 @@
     {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
         "source": "C:\\Users\\Prakhar\\.android\\build-cache\\753c8931c91b8054006b51d60e2748c0ebb6c584\\output\\res\\layout\\design_layout_snackbar_include.xml"
-    },
-    {
-        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\layout\\notification_template_icon_group.xml"
     },
     {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout\\exo_playback_control_view.xml",
@@ -58,10 +58,6 @@
     {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
         "source": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\layout\\notification_action_tombstone.xml"
     },
     {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout\\error_retry.xml",
@@ -98,10 +94,6 @@
     {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
         "source": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
-        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\layout\\notification_action.xml"
     },
     {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
@@ -150,10 +142,6 @@
     {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout\\video_detail.xml",
         "source": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\src\\main\\res\\layout\\video_detail.xml"
-    },
-    {
-        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\layout\\notification_template_custom_big.xml"
     },
     {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
@@ -224,6 +212,10 @@
         "source": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
+        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_channels.xml",
+        "source": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\src\\main\\res\\layout\\fragment_channels.xml"
+    },
+    {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
         "source": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
@@ -244,6 +236,10 @@
         "source": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
+        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_player.xml",
+        "source": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\src\\main\\res\\layout\\activity_video_player.xml"
+    },
+    {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
@@ -258,9 +254,5 @@
     {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout\\recycler_view.xml",
         "source": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\src\\main\\res\\layout\\recycler_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout\\video_player.xml",
-        "source": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\src\\main\\res\\layout\\video_player.xml"
     }
 ]
