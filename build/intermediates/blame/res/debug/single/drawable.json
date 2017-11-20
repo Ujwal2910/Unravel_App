@@ -1,9 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
@@ -64,10 +60,6 @@
         "source": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\src\\main\\res\\drawable\\ic_share_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
-        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\753c8931c91b8054006b51d60e2748c0ebb6c584\\output\\res\\drawable\\design_password_eye.xml"
-    },
-    {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
         "source": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
@@ -84,12 +76,12 @@
         "source": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\src\\main\\res\\drawable\\ic_arrow_drop_down_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search_white_24dp.png",
-        "source": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\src\\main\\res\\drawable\\ic_search_white_24dp.png"
-    },
-    {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play_circle_outline_black_24dp.png",
         "source": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\src\\main\\res\\drawable\\ic_play_circle_outline_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search_white_24dp.png",
+        "source": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\src\\main\\res\\drawable\\ic_search_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
@@ -128,6 +120,10 @@
         "source": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
+        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable\\scrim_middle.xml",
+        "source": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\src\\main\\res\\drawable\\scrim_middle.xml"
+    },
+    {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_whatshot_black_24dp.xml",
         "source": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\src\\main\\res\\drawable\\ic_whatshot_black_24dp.xml"
     },
@@ -152,20 +148,12 @@
         "source": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\753c8931c91b8054006b51d60e2748c0ebb6c584\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
-    },
-    {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand_more_black_24dp.png",
         "source": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\src\\main\\res\\drawable\\ic_expand_more_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
         "source": "C:\\Users\\Prakhar\\.android\\build-cache\\753c8931c91b8054006b51d60e2748c0ebb6c584\\output\\res\\drawable\\navigation_empty_icon.xml"
-    },
-    {
-        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
@@ -210,6 +198,10 @@
     {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
         "source": "C:\\Users\\Prakhar\\.android\\build-cache\\753c8931c91b8054006b51d60e2748c0ebb6c584\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable\\scrim.xml",
+        "source": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\src\\main\\res\\drawable\\scrim.xml"
     },
     {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_margin="4dp">
+
+    <FrameLayout
+        android:layout_width="0dp"
+        android:layout_height="90dp"
+        android:layout_weight="1"
+        android:layout_margin="6dp">
+        
+        <ImageView
+            android:id="@+id/channels_list_playlist_thumbnail"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"/>
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/scrim"/>
+        </LinearLayout>
+
+    </FrameLayout>
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_margin="6dp">
+
+        <TextView
+            android:id="@+id/channels_list_playlist_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:text="Top 50 Songs This Week   Top 100 Hits of 2017-2018"
+            android:ellipsize="end"
+            android:maxLines="3"/>
+        <TextView
+            android:id="@+id/channels_list_playlist_channel_name"
+            android:layout_below="@id/channels_list_playlist_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:text="Prakhar"
+            android:layout_marginTop="4dp"/>
+        
+    </RelativeLayout>
+    
+</LinearLayout>
