@@ -1,9 +1,11 @@
 package com.example.android.materialdesigncodelab;
 
 import android.content.Context;
+import android.content.Intent;
 import android.content.res.Resources;
 import android.content.res.TypedArray;
 import android.graphics.drawable.Drawable;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
@@ -15,57 +17,56 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-/**
- * Created by songoku on 29/9/17.
- */
+import org.w3c.dom.Text;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class ListContentFragment extends Fragment {
+
+    private List<Project> projectList;
+    private TextView mName;
+    private TextView mDescription;
+    private TextView mLanguage;
+    private TextView mStars;
+    private TextView mForks;
+
+    public static Context mContext;
+
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
+
+        View view = inflater.inflate(R.layout.item_list, container, false);
+
+        projectList = new ArrayList<>();
+
         RecyclerView recyclerView = (RecyclerView) inflater.inflate(R.layout.recycler_view,container,false);
-        ContentAdapter contentAdapter = new ContentAdapter(recyclerView.getContext());
+        ContentAdapter contentAdapter = new ContentAdapter(recyclerView.getContext(), projectList, new ProjectItemClickHandler() {
+            @Override
+            public void onListItemClick(Project clickedProject) {
+                String url = clickedProject.getProjectUrl();
+                Intent i = new Intent(Intent.ACTION_VIEW);
+                i.setData(Uri.parse(url));
+                startActivity(i);
+            }
+        });
         recyclerView.setAdapter(contentAdapter);
         recyclerView.setHasFixedSize(true);
         recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
         return recyclerView;
     }
-    public static class ViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener{
 
-        public ImageView avator;
-        public TextView name;
-        public TextView desc;
-        public ViewHolder(LayoutInflater inflater, ViewGroup parent) {
-            super(inflater.inflate(R.layout.item_list,parent,false));
-            avator = (ImageView) itemView.findViewById(R.id.list_avatar);
-            name = (TextView) itemView.findViewById(R.id.list_title);
-            desc = (TextView) itemView.findViewById(R.id.list_desc);
-        }
-
-        @Override
-        public void onClick(View v) {
-
-        }
-    }
-
-    public static class ContentAdapter extends RecyclerView.Adapter<ViewHolder>
+    public static class ContentAdapter extends RecyclerView.Adapter<ContentAdapter.ViewHolder>
     {
-        private static final int length = 18;
-        private final String[] mPlaces;
-        private final String[] mPlaceDesc;
-        private final Drawable[] mPlaceAvators;
-        public ContentAdapter(Context  context)
-        {
+        private List<Project> mProjects;
+        private ProjectItemClickHandler mOnClickListener;
+        private Context mContext;
 
-            Resources resources = context.getResources();
-            mPlaces = resources.getStringArray(R.array.places);
-            mPlaceDesc = resources.getStringArray(R.array.place_desc);
-            TypedArray a = resources.obtainTypedArray(R.array.place_avator);
-            mPlaceAvators = new Drawable[a.length()];
-            for (int i = 0; i < mPlaceAvators.length; i++) {
-                mPlaceAvators[i] = a.getDrawable(i);
-            }
-            a.recycle();
+        public ContentAdapter(Context context, List<Project> projects, ProjectItemClickHandler listener){
+            mContext = context;
+            mProjects = projects;
+            mOnClickListener = listener;
         }
 
         @Override
@@ -74,15 +75,43 @@ public class ListContentFragment extends Fragment {
         }
 
         @Override
-        public void onBindViewHolder(ViewHolder holder, int position) {
-            holder.avator.setImageDrawable(mPlaceAvators[position % mPlaceAvators.length]);
-            holder.name.setText(mPlaces[position % mPlaces.length]);
-            holder.desc.setText(mPlaceDesc[position % mPlaceDesc.length]);
+        public void onBindViewHolder(final ViewHolder holder, int position) {
+            Context context = holder.mView.getContext();
+
+            Project project = mProjects.get(position);
+            holder.mProject = project;
+            holder.mProjectName.setText(project.getProjectName());
+            holder.mProjectDescription.setText(project.getProjectDescription());
         }
 
         @Override
         public int getItemCount() {
-            return length;
+            return mProjects.size();
+        }
+
+        public class ViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener{
+
+            public View mView;
+            public Project mProject;
+            public TextView mProjectName;
+            public TextView mProjectDescription;
+            public TextView mProjectLanguage;
+            public TextView mProjectStars;
+            public TextView mProjectForks;
+
+            public ViewHolder(LayoutInflater inflater, ViewGroup parent) {
+                super(inflater.inflate(R.layout.item_list,parent,false));
+                mView = itemView;
+                mProjectName = (TextView) itemView.findViewById(R.id.list_title);
+                mProjectDescription = (TextView) itemView.findViewById(R.id.list_desc);
+
+                itemView.setOnClickListener(this);
+
+            }
+            @Override
+            public void onClick(View v) {
+                mOnClickListener.onListItemClick(mProject);
+            }
         }
     }
 }

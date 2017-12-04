@@ -27,7 +27,7 @@ public class NetworkUtils {
     }
 
     private static List<Video> extractFeatureFromJson(String videoJson){
-        List<Video> movies = new ArrayList<>();
+        List<Video> videos = new ArrayList<>();
 
         try{
             JSONObject jsonObject = new JSONObject(videoJson);
@@ -46,12 +46,12 @@ public class NetworkUtils {
                 Long dislikes = currentVideo.getLong("dislikes");
 
                 Video video = new Video(title, url, id, channelName, description, thumbnail, views, likes, dislikes);
-                movies.add(video);
+                videos.add(video);
             }
         }catch (JSONException e){
 
         }
-        return movies;
+        return videos;
     }
 
     private static URL createUrl(String stringUrl) {
