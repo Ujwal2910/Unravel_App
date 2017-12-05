@@ -24,12 +24,12 @@
         "source": "C:\\Users\\Prakhar\\.android\\build-cache\\ebf7ce55236d0e9c4f312484d5a556ff1028dfa0\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\753c8931c91b8054006b51d60e2748c0ebb6c584\\output\\res\\layout\\design_layout_tab_icon.xml"
-    },
-    {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout\\channel_list_item.xml",
         "source": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\src\\main\\res\\layout\\channel_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Prakhar\\.android\\build-cache\\753c8931c91b8054006b51d60e2748c0ebb6c584\\output\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",

@@ -76,12 +76,12 @@
         "source": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\src\\main\\res\\drawable\\ic_arrow_drop_down_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play_circle_outline_black_24dp.png",
-        "source": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\src\\main\\res\\drawable\\ic_play_circle_outline_black_24dp.png"
-    },
-    {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search_white_24dp.png",
         "source": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\src\\main\\res\\drawable\\ic_search_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play_circle_outline_black_24dp.png",
+        "source": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\src\\main\\res\\drawable\\ic_play_circle_outline_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\Prakhar\\Documents\\GitHub\\Unraval_App\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",

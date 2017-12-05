@@ -31,7 +31,7 @@ public class PlaylistUtils {
     }
 
     private static List<Playlist> extractFeatureFromJson(String videoJson){
-        List<Playlist> movies = new ArrayList<>();
+        List<Playlist> playlists = new ArrayList<>();
 
         try{
             JSONObject jsonObject = new JSONObject(videoJson);
@@ -47,12 +47,12 @@ public class PlaylistUtils {
                 JSONObject videos = currentPlaylist.getJSONObject("videos");
 
                 Playlist playlist = new Playlist(title, id, channelId, channelName, thumbnail);
-                movies.add(playlist);
+                playlists.add(playlist);
             }
         }catch (JSONException e){
 
         }
-        return movies;
+        return playlists;
     }
 
     private static URL createUrl(String stringUrl) {

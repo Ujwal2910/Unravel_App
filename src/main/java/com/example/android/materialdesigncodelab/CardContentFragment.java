@@ -114,7 +114,7 @@ public class CardContentFragment extends Fragment {
             public TextView mTitle;
             public TextView description;
 
-                public ViewHolder(LayoutInflater inflater, ViewGroup parent) {
+            public ViewHolder(LayoutInflater inflater, ViewGroup parent) {
                 super(inflater.inflate(R.layout.item_card,parent,false));
                 mView = itemView;
                 mPicture = (ImageView) itemView.findViewById(R.id.card_image);
